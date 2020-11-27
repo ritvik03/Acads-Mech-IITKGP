@@ -1,0 +1,9 @@
+Topic_5: NN, NN vs RBF
+
+Topic_6: NN_examples
+
+Topic_7: Hoffman networks, travelling salesman, Radial Basis Function
+
+Topic_8: ML in MATLAB
+
+Topic_12: Fuzzy logic and reasoning 
