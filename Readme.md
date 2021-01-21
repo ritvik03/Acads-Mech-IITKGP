@@ -8,8 +8,7 @@
     <img src="kgp_logo.png" height="100px">
 </td>
 
-<td style="font-size: 20px; font-weight: bold;">
-    
+<td style="font-size: 25px; font-weight: bold; font-family: sans-serif;">
     Mechanical Engineering (Dual Degree)
     Indian Institute of Technology (IIT) Kharagpur
 </td>
@@ -22,7 +21,8 @@
 
 <ul style="font-size: 15px;">
 
-<li><strong>Sem 4:</strong> Kinematics of machines, Material Science,Thermodynamics, Partial Differential Equations, Transform Calculus</li>
+<li><strong>Sem 3:</strong> Fluid Mechanics, Partial Differential Equations, Transform Calculus</li>
+<li><strong>Sem 4:</strong> Kinematics of machines, Material Science,Thermodynamics</li>
 <li><strong>Sem 5:</strong> Casting-Forming-Welding, Heat Transfer, Material, Mechanics of Solid</li>
 <li><strong>Sem 6:</strong> Applied Thermo-Fluids 1, Dynamics of Machine, Computation Fluid Dynamics, Machine Tools and Machining, Design of Machine Elements</li>
 <li><strong>Sem 7:</strong> Applied Elasticity, Applied Thermo-Fluids 2, Foundations of Education Technology, System and Controls (Syscon)</li>
@@ -45,7 +45,7 @@
 <li>Machine Design Practice</li>
 <li>Modern Algebra</li>
 <li>Operational Research</li>
-<li>Fluid Mechanics: Please send if anyone has JJC sir's notes</li>
+<li>Fluid Mechanics: Please send if anyone has JJC sir's hadwritten notes</li>
 
 </ul>
 
