@@ -27,8 +27,8 @@
 <li><strong>Sem 6:</strong> Applied Thermo-Fluids 1, Dynamics of Machine, Computation Fluid Dynamics, Machine Tools and Machining, Design of Machine Elements</li>
 <li><strong>Sem 7:</strong> Applied Elasticity, Applied Thermo-Fluids 2, Foundations of Education Technology, System and Controls (Syscon)</li>
 <li><strong>Sem 8:</strong> Aircraft Composite, Lubrication and Rotor Dynamics, Mechanics of Human Body, Mechanics of Composites</li>
-<li><strong>Sem 9:</strong> Intelligent Machines and Systems, Knowledge based Systems, Vibrational Analysis (syscon too)</li>
-
+<li><strong>Sem 9:</strong> Intelligent Machines and Systems, Knowledge based Systems, Vibrational Analysis (syscon 2)</li>
+<li><strong>Sem 10:</strong>Robot Mechanics and Kinematics</li>
 </ul>
 
 
